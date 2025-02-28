@@ -33,6 +33,13 @@ sudo apt update
 sudo apt install code
 ```
 
+Uninstall
+```
+sudo apt remove code --purge
+sudo rm -r $HOME/.config/Code
+sudo rm -r ~/.vscode
+```
+
 References : ["Vs Code Linux"](https://code.visualstudio.com/docs/setup/linux)
 
 # Rekomendasi setelah install VS Code
