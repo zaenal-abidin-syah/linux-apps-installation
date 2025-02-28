@@ -3,7 +3,7 @@
 generate SSH Key dengan
 ```
 cd ~/.ssh/
-membuat private key dan public key
+#membuat private key dan public key
 ssh-keygen -t rsa
 ```
 Copy semua teks yang ditampilkan.
