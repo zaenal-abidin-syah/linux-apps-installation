@@ -1,7 +1,7 @@
 # Install VS Code on Ubuntu
 
 ## Using Terminal
-Pergi ke ["vs code"](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
+Pergi ke ["vs code"](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) OR pilih yang sesuai [vs code os](https://code.visualstudio.com/Download)
 
 or 
 ```
