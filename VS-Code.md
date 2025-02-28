@@ -5,14 +5,13 @@ Pergi ke ["vs code"](https://code.visualstudio.com/sha/download?build=stable&os=
 
 or 
 ```
-wget "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
+wget -O vscode-stable.deb "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
 ```
 Installation
 ```
 sudo apt install .<file>.deb
 ```
 
-## Using Third Party Repository
 Otomatis install apt-repository
 ```
 echo "code code/add-microsoft-repo boolean true" | sudo debconf-set-selections
