@@ -41,4 +41,5 @@ configure title bar
 vscode://settings/window.titleBarStyle
 ```
 Pilih $native$ or $custom$
-Native recommended
+
+I Prefe custom
