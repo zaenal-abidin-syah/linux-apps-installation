@@ -42,4 +42,4 @@ vscode://settings/window.titleBarStyle
 ```
 Pilih $native$ or $custom$
 
-I Prefe custom
+I Prefer custom
