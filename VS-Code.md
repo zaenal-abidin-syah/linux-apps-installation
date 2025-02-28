@@ -5,7 +5,7 @@ Pergi ke ["vs code"](https://code.visualstudio.com/sha/download?build=stable&os=
 
 or 
 ```
-wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+wget "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
 ```
 Installation
 ```
