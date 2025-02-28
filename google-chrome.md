@@ -43,4 +43,4 @@ remove unused dependencies
 ```
 sudo apt-get autoremove
 ```
-ref : https://www.geeksforgeeks.org/how-to-install-chrome-in-ubuntu/
+Reference : ["how to install chrome in ubuntu GeeksForGeeks"](https://www.geeksforgeeks.org/how-to-install-chrome-in-ubuntu/)
