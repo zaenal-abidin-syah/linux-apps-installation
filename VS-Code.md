@@ -34,3 +34,11 @@ sudo apt install code
 ```
 
 References : ["Vs Code Linux"](https://code.visualstudio.com/docs/setup/linux)
+
+# Rekomendasi setelah install VS Code
+configure title bar
+
+[Title Bar](vscode://settings/window.titleBarStyle)
+
+Pilih $native$ or $custom$
+Native recommended
