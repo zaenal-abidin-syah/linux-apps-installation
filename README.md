@@ -11,3 +11,4 @@ linux apps installation
 - packet traccer
 - Postman
 - Virtual Box
+- Jupyter
