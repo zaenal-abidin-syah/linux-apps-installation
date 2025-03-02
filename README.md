@@ -12,3 +12,4 @@ linux apps installation
 - Postman
 - Virtual Box
 - Jupyter
+- Brave Browser
