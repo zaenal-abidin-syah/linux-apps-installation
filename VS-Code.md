@@ -50,3 +50,51 @@ vscode://settings/window.titleBarStyle
 Pilih $native$ or $custom$
 
 I Prefer custom
+
+# Rekomendasi Install Extension
+
+
+## Node Js
+- Eslint
+  Cari Eslint di bagian extension atau ctrl + p lalu ketik
+  ```
+  ext install dbaeumer.vscode-eslint
+  ```
+
+  install Eslint nodejs global
+  ```
+  npm install -g eslint
+  ```
+  OR
+  install Eslint in local
+  ```
+  npm install eslint --save-dev
+  ```
+
+  Eslint init in global
+  ```
+  eslint --init
+  ```
+  OR
+  eslint init in local
+  ```
+  ./node_modules/.bin/eslint --init
+  ```
+
+  ini setting
+  enable editor.format.onSave
+  enable eslint.format.enable
+  enable eslint.run.onSave
+
+  or add in setting.json
+  ```json
+  "editor.formatOnSave": true,
+    "eslint.run": "onSave",
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always",
+    }
+  ```
+  
+
+  
