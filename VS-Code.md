@@ -114,10 +114,10 @@ Menambah kemampuan autocomplete lebih jauh: nama Route beserta parameter, Views 
 ### 4. [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)  
 Menyediakan snippet untuk berbagai Facades Laravel seperti `Arr::`, `Auth::`, `Cache::`, `Config::`, `DB::`, `Hash::`, `Mail::`, dan lainnya. Mempercepat penulisan kode yang sering berulang dalam aplikasi Laravel citeturn1view0.
 
-### 5. [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)  
+### 5. [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets)
 (Asumsi berdasarkan konteks: nama tepat dapat berbeda di Marketplace.) Snippet untuk mendefinisikan properti model seperti `$fillable`, `$guarded`, `$dates`, `$timestamps`, serta hubungan (relationship) antar model, memudahkan pembuatan dan pengelolaan model Laravel citeturn1view0.
 
-### 6. [Laravel Blade](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)  
+### 6. [Laravel Blade](https://marketplace.visualstudio.com/items?itemName=amirmarmul.laravel-blade-vscode)  
 Mengaktifkan autocomplete syntax Blade dengan trigger `@`, sesuai penulisan template Laravel. Anda juga dapat mengonfigurasi Emmet di file `.blade.php` dengan menambahkan:
 
 ```json
@@ -135,21 +135,20 @@ Memformat file `.blade.php` agar indentasi dan penataan HTML/PHP menjadi konsist
 }
 ```
 
-### 8. [Laravel Create View](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)  
+### 8. [Laravel Create View](https://marketplace.visualstudio.com/items?itemName=glitchbl.laravel-create-view)  
 Mempercepat pembuatan file view baru melalui Command Palette (`Ctrl+Shift+P` → “Laravel Create View”) atau melalui lampu petunjuk saat mengetik `return view()`. Work­flow ini mirip dengan fitur Laravel Idea di PHPStorm citeturn1view0.
 
-### 9. [Laravel goto View](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)  
+### 9. [Laravel goto View](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)  
 Memudahkan navigasi ke file view dari controller atau file lainnya dengan **Ctrl+Click** (Windows/Linux) atau **Cmd+Click** (macOS), sehingga berpindah antar file View menjadi sangat cepat
 
-### 10. [Laravel goto Controller](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan)  
+### 10. [Laravel goto Controller](https://marketplace.visualstudio.com/items?itemName=ctf0.laravel-goto-controller)  
 Sama seperti “goto View”, tetapi berfungsi untuk melompat langsung ke file Controller dari route, view, atau referensi lainnya dalam kode Laravel citeturn1view0.
 
-### 11. [Laravel goto Components](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)  
+### 11. [Laravel goto Components](https://marketplace.visualstudio.com/items?itemName=naoray.laravel-goto-components)  
 Mempermudah akses file Blade Component saat bekerja dengan banyak komponen. Cukup klik cepat untuk melihat atau mengedit isi komponen Blade yang digunakan citeturn1view0.
 
 ---
 
-## Tulisan Lainnya  
-- [Membuat Fungsi Create Contact](https://kawankoding.com/tulisan/membuat-fungsi-create-contact-01be2)  
-- [Autentikasi Dengan Laravel Breeze](https://kawankoding.com/tulisan/autentikasi-dengan-laravel-breeze-caa46)  
-- [Membuat Page Views / Read Count Artikel di Laravel](https://kawankoding.com/tulisan/membuat-page-views-read-count-artikel-di-laravel-06c8a)
+## Referense extension vscode
+- [Membuat Fungsi Create Contact]([https://kawankoding.com/tulisan/membuat-fungsi-create-contact-01be2](https://kawankoding.com/tulisan/extension-vscode-untuk-laravel-46fe6))  
+
