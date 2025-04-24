@@ -150,5 +150,5 @@ Mempermudah akses file Blade Component saat bekerja dengan banyak komponen. Cuku
 ---
 
 ## Referense extension vscode
-- [Membuat Fungsi Create Contact]([https://kawankoding.com/tulisan/membuat-fungsi-create-contact-01be2](https://kawankoding.com/tulisan/extension-vscode-untuk-laravel-46fe6))  
+- [Kawan Koding](https://kawankoding.com/tulisan/extension-vscode-untuk-laravel-46fe6)  
 
